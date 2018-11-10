@@ -18,4 +18,4 @@
    1. Merge conflict
    1. Git remotes
 2. Github pages for hosting
-    2. Github Pages
+   2. Github Pages
