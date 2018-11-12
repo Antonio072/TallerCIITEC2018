@@ -19,3 +19,15 @@
    1. Git remotes
 2. Github pages for hosting
    1. Github Pages
+
+
+## Links
+   - [GitHub Students :octocat:](https://education.github.com/students)
+   - Markdown en linea
+      - [Stack edit](https://stackedit.io/app)
+      - [Markdown it demo](https://markdown-it.github.io/)
+   - [Git](https://git-scm.com/downloads)
+   - [GitHub Desktop :octocat: ](https://desktop.github.com/)
+   - [Visual Studio Code](https://code.visualstudio.com/Download)
+   - [Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
+   - [Git Cheat Sheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
