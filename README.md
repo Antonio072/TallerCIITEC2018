@@ -1,4 +1,4 @@
-# Bienvenido al taller de Git y GitHub
+# Bienvenidos al taller de Git y GitHub
 
 ![CIITEC](/imagenes/banner.jpeg)
 
@@ -26,8 +26,11 @@
    - Markdown en linea
       - [Stack edit](https://stackedit.io/app)
       - [Markdown it demo](https://markdown-it.github.io/)
-   - [Git](https://git-scm.com/downloads)
+   - [Descarga de Git](https://git-scm.com/downloads)
+   - [GitHub Pages](https://pages.github.com/)
    - [GitHub Desktop :octocat: ](https://desktop.github.com/)
    - [Visual Studio Code](https://code.visualstudio.com/Download)
    - [Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
    - [Git Cheat Sheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
+   - [Plantilla para página de portafolio](https://startbootstrap.com/template-overviews/freelancer/)
+   
