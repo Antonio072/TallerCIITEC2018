@@ -19,9 +19,14 @@
    1. Git remotes
 2. Github pages for hosting
    1. Github Pages
+   
+## Páginas de los partipantes
+  **En esta sección añadirán sus páginas que creamos en GitHub Pages**
+     
+   [Antonio Velázquez](http://antonio072.github.io)
+   
 
-
-## Links
+## Enlaces de ayuda :closed_book:
    - [GitHub Students :octocat:](https://education.github.com/students)
    - Markdown en linea
       - [Stack edit](https://stackedit.io/app)
@@ -34,3 +39,4 @@
    - [Git Cheat Sheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
    - [Plantilla para página de portafolio](https://startbootstrap.com/template-overviews/freelancer/)
    
+ 
