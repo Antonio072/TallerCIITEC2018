@@ -2,7 +2,7 @@
 package tallerciitec;
 /**
  *
- * @author antonio072
+ * @author antonio072 del Tecno
  * Clase de Java creada para el taller de Git y Github
  */
 public class TallerCIITEC {
