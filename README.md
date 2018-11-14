@@ -1,4 +1,4 @@
-# Bienvenidos al taller de Git y GitHub
+# Bienvenidos al taller de Git y GitHub en celaya
 
 ![CIITEC](/imagenes/banner.jpeg)
 
