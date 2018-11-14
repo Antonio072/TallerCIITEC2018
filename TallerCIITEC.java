@@ -6,15 +6,10 @@ package tallerciitec;
  * Clase de Java creada para el taller de Git y Github
  */
 public class TallerCIITEC {
+  int a,b,c,d,e,f,g;
 
+      
     public static void main(String[] args) {
-      int a;
-      int b;
-      int c;
-      int d;
-      int e;
-      int f;
-      int g;
       a=1;
       b=2;
       c=3;
@@ -22,7 +17,12 @@ public class TallerCIITEC {
       e=5;
       f=6;
       g=7;
-      
+        
+    TallerCIITEC objeto=new TallerCIITEC();
+    objeto.imprimir();
+    }
+   void imprimir(){
+    
         System.out.println(a);
         System.out.println(b);
         System.out.println(c);
@@ -30,6 +30,6 @@ public class TallerCIITEC {
         System.out.println(e);
         System.out.println(f);
         System.out.println(g);
-    }
+   }
     
 }
