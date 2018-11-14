@@ -1,4 +1,4 @@
-# Bienvenidos al taller de Git y GitHub en el CIITEC2018
+# Bienvenidos al taller de Git y GitHub en el CIITEC2018 en Celaya
 
 ![CIITEC](/imagenes/banner.jpeg)
 
