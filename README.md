@@ -1,4 +1,4 @@
-# Bienvenidos al taller de Git y GitHub
+# Bienvenidos al taller de Git y GitHub en el CIITEC2018
 
 ![CIITEC](/imagenes/banner.jpeg)
 
