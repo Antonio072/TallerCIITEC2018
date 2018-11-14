@@ -8,9 +8,9 @@ package tallerciitec;
 public class TallerCIITEC {
 
     public static void main(String[] args) {
-      int[]variable={1,2,3,4,5,6,7};
-      for (int i=0;i<=6;i++){
-          System.out.println("numero" + variable[i]);
-      }
+          for(int i = 1; i<7 ; i++)
+          {
+            System.out.println("numero: " + i);
+          }
     }
 }
