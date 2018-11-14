@@ -1,5 +1,6 @@
 
 package tallerciitec;
+import javax.swing.JOptionPane;
 /**
  *
  * @author antonio072 del Tecno
@@ -8,13 +9,7 @@ package tallerciitec;
 public class TallerCIITEC {
 
     public static void main(String[] args) {
-      int a;
-      int b;
-      int c;
-      int d;
-      int e;
-      int f;
-      int g;
+      int a, b, c, d, e, f, g;
       a=1;
       b=2;
       c=3;
@@ -23,13 +18,14 @@ public class TallerCIITEC {
       f=6;
       g=7;
       
-        System.out.println(a);
+        JOptionPane.showMessageDialog(null,"\nA = " + a + "\nB = "+ b +"\nC = " + c + "\nD = "+ d + "\nE = " + e + "\nF = " + f + "\nG = " + g);
+        /*System.out.println(a);
         System.out.println(b);
         System.out.println(c);
         System.out.println(d);
         System.out.println(e);
         System.out.println(f);
-        System.out.println(g);
+        System.out.println(g);*/
     }
     
 }
